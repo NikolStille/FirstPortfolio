@@ -1,0 +1,18 @@
+img {
+    width: 500px;
+    height: 600px;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: palevioletred;
+}
+
+p {
+    font-size: 24px;
+    line-height: 40px;
+    padding: 20px;
+    display: inline-block;
+} 
+
+
